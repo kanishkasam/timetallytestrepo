@@ -94,7 +94,7 @@
       }
     },
     "appDisplayName": {
-      "defaultValue": "Time Tally",
+      "defaultValue": "whatthetine", 
       "minLength": 1,
       "type": "String",
       "metadata": {
